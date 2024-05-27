@@ -4,8 +4,6 @@ Includes static page template, blog post template, post feed, pagination, tags a
 
 <p style="text-transform: uppercase;"><strong>Please don’t submit issues or PRs. I am also just sharing this for people that might want a decent starter (like me). This isn’t open source: just free. Thanks.</strong></p>
 
-ℹ️ If you want to learn how it works, go ahead and take Andy Bell's [Eleventy course](//swop.link/11ty)
-
 ## Getting started
 
 Ideally, you’ll be using an LTS version of Node JS and if in Windows, the WSL setup because it works better with gulp.
